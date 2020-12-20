@@ -1,0 +1,5 @@
+f1
+f2
+test2: fprintf fwrite fputs fputc
+test2: fscanf fread fgets fgetc
+test2: ungetc
